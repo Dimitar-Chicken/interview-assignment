@@ -1,5 +1,5 @@
 # Solution
-Node.JS script, accepts user input SQL query or uses a default query. The script creates a MySQL database named `tempdb` running on `localhost` with username `user` and password `password`
+Node.JS script, accepts user input SQL query or uses a default query. The script creates a MySQL database named `tempdb` running on `localhost` with username `root` and password `password`
 
 ## Usage
 ```
