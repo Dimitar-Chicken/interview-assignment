@@ -1,0 +1,23 @@
+{
+  "name": "dimitar_solution",
+  "version": "1.0.0",
+  "description": "We kindly ask you to solve the task below. By solving and submitting this assignment you provide us with insights in how you solve real-world problems. What we will be looking at are topics such as: choice of technology, structuring of code, use of VCS, selection of 3rd party libraries, documentation etc.",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimitar-Chicken/interview-assignment.git"
+  },
+  "author": "Dimitar Pilyakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimitar-Chicken/interview-assignment/issues"
+  },
+  "homepage": "https://github.com/Dimitar-Chicken/interview-assignment#readme"
+}
